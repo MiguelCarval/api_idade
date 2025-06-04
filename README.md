@@ -5,7 +5,7 @@ E uma api simples que retorna a idade pelo ano q nasceu.
 ## como usar
 
 endpoint:
-http://localhost/nova/cpf_api/index.php
+http://localhost/nova/idade_api/index.php
 
 exemplo:
 {
